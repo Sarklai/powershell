@@ -1,0 +1,12 @@
+<config>
+	<system>
+		<token>5658461997:AAFscJbBUp6hATb6UaP_HAiRrWWtyMqab-o</token>
+		<users>144425256, 188900158, 1332017907, 291297114, 601136474, 5362492405, 330275431</users>
+	</system>
+		<tasks>
+		<task name="Посмотреть пароль LAPS" shit="1"></task>
+		<task name="Разблокировать пользователя со сбросом пароля" shit="2"></task>
+		<task name="Сделать заявку в ОМНИ"  shit="3"></task>
+		<task name="Пинг"  shit="4"></task>
+	</tasks>
+</config>
